@@ -18,6 +18,9 @@ or within a jupyter notebook:
 <img width="800" alt="teaser" src="figures/rnn_01.png">
 <img width="800" alt="teaser" src="figures/rnn_02.png">
 
+The dashed vertical line at t=708 separates the training and validation dataset
+of the stores with id=4 and id=8.
+
 ### Setup & Training
 ```shell script
 conda create -n rnn python=3.6

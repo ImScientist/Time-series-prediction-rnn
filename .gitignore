@@ -1,5 +1,6 @@
 exec/*
 notebooks/*
+rnn/rnn_101/*
 rnn/rossmann/*
 rnn/rossmann_02/*
 
