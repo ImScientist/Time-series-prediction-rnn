@@ -1,3 +1,4 @@
+.idea/*
 exec/*
 notebooks/*
 rnn/rnn_101/*

@@ -138,8 +138,8 @@ if __name__ == "__main__":
             --num_epochs 201 \
             --rnn_hidden_size 32 \
             --rnn_num_layers 4 \
-            --batch_size 20 \
-            --n_stores 4 \
+            --batch_size 4 \
+            --n_stores 12 \
             --t_train 708
     """
 
